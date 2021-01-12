@@ -3,7 +3,7 @@ import cleanup from 'rollup-plugin-cleanup'
 import replace from '@rollup/plugin-replace'
 import {nodeResolve}  from '@rollup/plugin-node-resolve'
 
-const extensions = [ '.js' ]
+const extensions = [ '.js', '.ts' ]
 
 export default {
   plugins : [
