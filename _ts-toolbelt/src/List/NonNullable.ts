@@ -1,8 +1,8 @@
-import {_Pick} from '../Object/Pick'
-import {Key} from '../Any/Key'
-import {NonNullable as UNonNullable} from '../Union/NonNullable'
-import {Depth} from '../Object/_Internal'
-import {BuiltInObject} from '../Misc/BuiltInObject'
+import {_Pick} from '../Object/Pick.ts'
+import {Key} from '../Any/Key.ts'
+import {NonNullable as UNonNullable} from '../Union/NonNullable.ts'
+import {Depth} from '../Object/_Internal.ts'
+import {BuiltInObject} from '../Misc/BuiltInObject.ts'
 
 /**
  * @hidden

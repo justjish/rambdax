@@ -1,7 +1,7 @@
-import {Key} from '../Any/Key'
-import {List} from './List'
-import {At} from '../Object/At'
-import {Format} from '../String/Format'
+import {Key} from '../Any/Key.ts'
+import {List} from './List.ts'
+import {At} from '../Object/At.ts'
+import {Format} from '../String/Format.ts'
 
 /**
 Make the fields of `L` union the ones of `L1`

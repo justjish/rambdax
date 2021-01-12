@@ -1,5 +1,5 @@
-import {Extends} from './Extends'
-import {List} from '../List/List'
+import {Extends} from './Extends.ts'
+import {List} from '../List/List.ts'
 
 /**
  * @hidden

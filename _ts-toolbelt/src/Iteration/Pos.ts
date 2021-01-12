@@ -1,5 +1,5 @@
-import {Iteration} from './Iteration'
-import {Format} from './Format'
+import {Iteration} from './Iteration.ts'
+import {Format} from './Format.ts'
 
 /**
 Get the position of `I` (**number**)

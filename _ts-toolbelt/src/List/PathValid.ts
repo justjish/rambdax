@@ -1,6 +1,6 @@
-import {PathValid as OPathValid} from '../Object/PathValid'
-import {Key} from '../Any/Key'
-import {List} from './List'
+import {PathValid as OPathValid} from '../Object/PathValid.ts'
+import {Key} from '../Any/Key.ts'
+import {List} from './List.ts'
 
 /**
 Replaces invalid parts of a path with `never`

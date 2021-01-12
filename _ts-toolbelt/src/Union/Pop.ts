@@ -1,6 +1,6 @@
-import {Exclude} from './Exclude'
-import {Last} from './Last'
-import {Union} from './Union'
+import {Exclude} from './Exclude.ts'
+import {Last} from './Last.ts'
+import {Union} from './Union.ts'
 
 /**
 Remove an item out of `U`

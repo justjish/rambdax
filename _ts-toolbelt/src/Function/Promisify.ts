@@ -1,7 +1,7 @@
-import {Function} from './Function'
-import {Parameters} from './Parameters'
-import {Return} from './Return'
-import {Promise} from '../Any/Promise'
+import {Function} from './Function.ts'
+import {Parameters} from './Parameters.ts'
+import {Return} from './Return.ts'
+import {Promise} from '../Any/Promise.ts'
 
 /**
 Creates a promisified version of a `Function` `F`

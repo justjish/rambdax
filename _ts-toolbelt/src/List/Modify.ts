@@ -1,7 +1,7 @@
-import {At} from './At'
-import {Replace} from '../Union/Replace'
-import {x} from '../Any/x'
-import {List} from './List'
+import {At} from './At.ts'
+import {Replace} from '../Union/Replace.ts'
+import {x} from '../Any/x.ts'
+import {List} from './List.ts'
 
 /**
 Modify `L` with `LMod` & the [[x]] placeholder

@@ -1,12 +1,12 @@
-import {Next} from '../Iteration/Next'
-import {Prepend} from './Prepend'
-import {IterationOf} from '../Iteration/IterationOf'
-import {Iteration} from '../Iteration/Iteration'
-import {Number} from '../Number/Number'
-import {Cast} from '../Any/Cast'
-import {Key} from '../Iteration/Key'
-import {List} from './List'
-import {Extends} from '../Any/Extends'
+import {Next} from '../Iteration/Next.ts'
+import {Prepend} from './Prepend.ts'
+import {IterationOf} from '../Iteration/IterationOf.ts'
+import {Iteration} from '../Iteration/Iteration.ts'
+import {Number} from '../Number/Number.ts'
+import {Cast} from '../Any/Cast.ts'
+import {Key} from '../Iteration/Key.ts'
+import {List} from './List.ts'
+import {Extends} from '../Any/Extends.ts'
 
 /**
 @hidden

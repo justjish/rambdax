@@ -1,8 +1,8 @@
-import {_Pick} from './Pick'
-import {Depth} from './_Internal'
-import {Key} from '../Any/Key'
-import {_PatchFlat} from './Patch'
-import {BuiltInObject} from '../Misc/BuiltInObject'
+import {_Pick} from './Pick.ts'
+import {Depth} from './_Internal.ts'
+import {Key} from '../Any/Key.ts'
+import {_PatchFlat} from './Patch.ts'
+import {BuiltInObject} from '../Misc/BuiltInObject.ts'
 
 /**
 @hidden

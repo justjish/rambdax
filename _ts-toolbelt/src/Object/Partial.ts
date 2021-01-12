@@ -1,5 +1,5 @@
-import {OptionalPart} from './Optional'
-import {Depth} from './_Internal'
+import {OptionalPart} from './Optional.ts'
+import {Depth} from './_Internal.ts'
 
 /**
 Make all fields of `O` optional (deeply or not)

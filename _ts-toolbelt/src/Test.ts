@@ -1,7 +1,7 @@
-import {Repeat} from './List/Repeat'
-import {Equals} from './Any/Equals'
-import {ComputeRaw} from './Any/Compute'
-import {True, False, Boolean} from './Boolean/Boolean'
+import {Repeat} from './List/Repeat.ts'
+import {Equals} from './Any/Equals.ts'
+import {ComputeRaw} from './Any/Compute.ts'
+import {True, False, Boolean} from './Boolean/Boolean.ts'
 
 /**
 Test should pass

@@ -1,6 +1,6 @@
-import {Number} from '../Number/Number'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
+import {Number} from '../Number/Number.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
 
 /**
 Transform a number into an [[Iteration]]

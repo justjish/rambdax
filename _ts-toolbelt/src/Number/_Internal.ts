@@ -1,6 +1,6 @@
-import {Format} from '../Iteration/Format'
-import {Map} from '../Iteration/Map'
-import {NumberMap} from '../Iteration/Maps/Number'
+import {Format} from '../Iteration/Format.ts'
+import {Map} from '../Iteration/Map.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
 
 /**
 Describes compatible type formats

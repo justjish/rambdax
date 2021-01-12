@@ -1,6 +1,6 @@
-import {Exclude} from '../Union/Exclude'
-import {List} from './List'
-import {Keys as UKeys} from '../Union/Keys'
+import {Exclude} from '../Union/Exclude.ts'
+import {List} from './List.ts'
+import {Keys as UKeys} from '../Union/Keys.ts'
 
 /**
 Get the keys of a [[List]]

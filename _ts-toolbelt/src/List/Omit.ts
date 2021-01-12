@@ -1,9 +1,9 @@
-import {_Omit as _OOmit} from '../Object/Omit'
-import {_ListOf} from '../Object/ListOf'
-import {Key} from '../Any/Key'
-import {List} from './List'
-import {ObjectOf} from './ObjectOf'
-import {NumberOf} from '../Any/_Internal'
+import {_Omit as _OOmit} from '../Object/Omit.ts'
+import {_ListOf} from '../Object/ListOf.ts'
+import {Key} from '../Any/Key.ts'
+import {List} from './List.ts'
+import {ObjectOf} from './ObjectOf.ts'
+import {NumberOf} from '../Any/_Internal.ts'
 
 /**
 @hidden

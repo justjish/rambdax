@@ -1,6 +1,6 @@
-import {Compulsory as OCompulsory} from '../Object/Compulsory'
-import {ObjectOf} from './ObjectOf'
-import {List} from './List'
+import {Compulsory as OCompulsory} from '../Object/Compulsory.ts'
+import {ObjectOf} from './ObjectOf.ts'
+import {List} from './List.ts'
 
 /**
 Get the keys of `L` that are [[Compulsory]]

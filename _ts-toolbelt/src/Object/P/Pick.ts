@@ -1,13 +1,13 @@
-import {IterationOf} from '../../Iteration/IterationOf'
-import {Iteration} from '../../Iteration/Iteration'
-import {Pos} from '../../Iteration/Pos'
-import {Next} from '../../Iteration/Next'
-import {Key} from '../../Any/Key'
-import {_Pick as _OPick} from '../Pick'
-import {LastIndex} from '../../List/LastIndex'
-import {List} from '../../List/List'
-import {Boolean} from '../../Boolean/Boolean'
-import {_ListOf} from '../ListOf'
+import {IterationOf} from '../../Iteration/IterationOf.ts'
+import {Iteration} from '../../Iteration/Iteration.ts'
+import {Pos} from '../../Iteration/Pos.ts'
+import {Next} from '../../Iteration/Next.ts'
+import {Key} from '../../Any/Key.ts'
+import {_Pick as _OPick} from '../Pick.ts'
+import {LastIndex} from '../../List/LastIndex.ts'
+import {List} from '../../List/List.ts'
+import {Boolean} from '../../Boolean/Boolean.ts'
+import {_ListOf} from '../ListOf.ts'
 
 /**
 @hidden

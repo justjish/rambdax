@@ -1,11 +1,11 @@
-import {IterationOf} from '../Iteration/IterationOf'
-import {KnownIterationMapKeys} from './_Internal'
-import {Number} from './Number'
-import {Formats} from '../Iteration/_Internal'
-import {Format} from '../Iteration/Format'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
-import {Equals} from '../Any/Equals'
+import {IterationOf} from '../Iteration/IterationOf.ts'
+import {KnownIterationMapKeys} from './_Internal.ts'
+import {Number} from './Number.ts'
+import {Formats} from '../Iteration/_Internal.ts'
+import {Format} from '../Iteration/Format.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
+import {Equals} from '../Any/Equals.ts'
 
 /**
  * @hidden

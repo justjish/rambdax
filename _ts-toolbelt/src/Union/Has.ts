@@ -1,6 +1,6 @@
-import {Union} from './Union'
-import {Not} from '../Boolean/Not'
-import {Extends} from '../Any/Extends'
+import {Union} from './Union.ts'
+import {Not} from '../Boolean/Not.ts'
+import {Extends} from '../Any/Extends.ts'
 
 /**
 Check whether `U` contains `U1`

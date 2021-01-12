@@ -1,7 +1,7 @@
-import {KeySet} from './KeySet'
-import {Number} from '../Number/Number'
-import {Pick} from './Pick'
-import {List} from './List'
+import {KeySet} from './KeySet.ts'
+import {Number} from '../Number/Number.ts'
+import {Pick} from './Pick.ts'
+import {List} from './List.ts'
 
 /**
 Pick a range of entries (portion) from `L`

@@ -1,6 +1,6 @@
-import {NumberOf} from '../Number/NumberOf'
-import {Formats} from '../Iteration/_Internal'
-import {List} from './List'
+import {NumberOf} from '../Number/NumberOf.ts'
+import {Formats} from '../Iteration/_Internal.ts'
+import {List} from './List.ts'
 
 /**
 Get the length of `L`

@@ -1,5 +1,5 @@
-import {Boolean} from './Boolean'
-import {Formats} from './_Internal'
+import {Boolean} from './Boolean.ts'
+import {Formats} from './_Internal.ts'
 
 /**
 Change the format of a [[Boolean]]

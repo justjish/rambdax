@@ -1,6 +1,6 @@
-import {_Omit} from '../Object/Omit'
-import {_Pick} from '../Object/Pick'
-import {List} from './List'
+import {_Omit} from '../Object/Omit.ts'
+import {_Pick} from '../Object/Pick.ts'
+import {List} from './List.ts'
 
 /**
 Transform a [[List]] into an [[Object]] equivalent

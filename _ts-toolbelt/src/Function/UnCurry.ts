@@ -1,4 +1,4 @@
-import {Curry} from './Curry'
+import {Curry} from './Curry.ts'
 
 /**
 Undoes the work that was done by [[Curry]]

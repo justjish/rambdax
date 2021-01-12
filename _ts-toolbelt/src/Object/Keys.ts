@@ -1,4 +1,4 @@
-import {Keys as UKeys} from '../Union/Keys'
+import {Keys as UKeys} from '../Union/Keys.ts'
 
 /**
 Get the keys of an [[Object]]

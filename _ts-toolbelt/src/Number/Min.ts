@@ -1,9 +1,9 @@
-import {Number} from './Number'
-import {Formats} from '../Iteration/_Internal'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
-import {Negate} from './Negate'
-import {Max} from './Max'
+import {Number} from './Number.ts'
+import {Formats} from '../Iteration/_Internal.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
+import {Negate} from './Negate.ts'
+import {Max} from './Max.ts'
 
 /**
 Get the smallest [[Number]] within an [[Union]]

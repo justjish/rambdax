@@ -1,11 +1,11 @@
-import {Formats} from './_Internal'
-import {Number} from './Number'
-import {IsZero} from './IsZero'
-import {Not} from '../Boolean/Not'
-import {Pos} from '../Iteration/Pos'
-import {IterationOf} from '../Iteration/IterationOf'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
+import {Formats} from './_Internal.ts'
+import {Number} from './Number.ts'
+import {IsZero} from './IsZero.ts'
+import {Not} from '../Boolean/Not.ts'
+import {Pos} from '../Iteration/Pos.ts'
+import {IterationOf} from '../Iteration/IterationOf.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
 
 /**
 Change the format of a [[Number]]

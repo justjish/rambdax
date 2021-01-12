@@ -1,10 +1,10 @@
-import {Key} from '../Any/Key'
-import {AtLeast as OAtLeast} from '../Object/AtLeast'
-import {ObjectOf} from './ObjectOf'
-import {_ListOf} from '../Object/ListOf'
-import {List} from './List'
-import {NumberOf} from '../Any/_Internal'
-import {Keys} from './Keys'
+import {Key} from '../Any/Key.ts'
+import {AtLeast as OAtLeast} from '../Object/AtLeast.ts'
+import {ObjectOf} from './ObjectOf.ts'
+import {_ListOf} from '../Object/ListOf.ts'
+import {List} from './List.ts'
+import {NumberOf} from '../Any/_Internal.ts'
+import {Keys} from './Keys.ts'
 
 /**
 Make that at least one of the keys `K` are required in `L` at a time.

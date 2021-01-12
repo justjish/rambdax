@@ -1,8 +1,8 @@
-import {Assign as OAssign} from '../Object/Assign'
-import {List} from './List'
-import {ObjectOf} from './ObjectOf'
-import {ListOf} from '../Object/ListOf'
-import {Depth} from '../Object/_Internal'
+import {Assign as OAssign} from '../Object/Assign.ts'
+import {List} from './List.ts'
+import {ObjectOf} from './ObjectOf.ts'
+import {ListOf} from '../Object/ListOf.ts'
+import {Depth} from '../Object/_Internal.ts'
 
 /**
 Assign a list of [[List]] into `L` with [[Merge]]. Merges from left to

@@ -1,4 +1,4 @@
-import {List} from './List'
+import {List} from './List.ts'
 
 /**
 Attach `L1` at the end of `L`

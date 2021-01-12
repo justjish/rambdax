@@ -1,12 +1,12 @@
-import {IterationOf} from '../../Iteration/IterationOf'
-import {Iteration} from '../../Iteration/Iteration'
-import {Pos} from '../../Iteration/Pos'
-import {Next} from '../../Iteration/Next'
-import {Key} from '../../Any/Key'
-import {LastIndex} from '../../List/LastIndex'
-import {List} from '../../List/List'
-import {Record} from '../Record'
-import {Patch} from '../Patch'
+import {IterationOf} from '../../Iteration/IterationOf.ts'
+import {Iteration} from '../../Iteration/Iteration.ts'
+import {Pos} from '../../Iteration/Pos.ts'
+import {Next} from '../../Iteration/Next.ts'
+import {Key} from '../../Any/Key.ts'
+import {LastIndex} from '../../List/LastIndex.ts'
+import {List} from '../../List/List.ts'
+import {Record} from '../Record.ts'
+import {Patch} from '../Patch.ts'
 
 /**
 @hidden

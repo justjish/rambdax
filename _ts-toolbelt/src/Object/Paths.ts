@@ -1,11 +1,11 @@
-import {OptionalFlat} from '../Object/Optional'
-import {Key} from '../Any/Key'
-import {NonNullableFlat} from '../Object/NonNullable'
-import {Concat} from '../List/Concat'
-import {Cast} from '../Any/Cast'
-import {Equals} from '../Any/Equals'
-import {List} from '../List/List'
-import {Append} from '../List/Append'
+import {OptionalFlat} from '../Object/Optional.ts'
+import {Key} from '../Any/Key.ts'
+import {NonNullableFlat} from '../Object/NonNullable.ts'
+import {Concat} from '../List/Concat.ts'
+import {Cast} from '../Any/Cast.ts'
+import {Equals} from '../Any/Equals.ts'
+import {List} from '../List/List.ts'
+import {Append} from '../List/Append.ts'
 
 /**
 @hidden

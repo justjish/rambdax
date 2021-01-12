@@ -1,7 +1,7 @@
-import {At as OAt} from '../Object/At'
-import {Key} from '../Any/Key'
-import {List} from './List'
-import {Boolean} from '../Boolean/Boolean'
+import {At as OAt} from '../Object/At.ts'
+import {Key} from '../Any/Key.ts'
+import {List} from './List.ts'
+import {Boolean} from '../Boolean/Boolean.ts'
 
 /**
 Get in `L` the type of an entry of key `K`

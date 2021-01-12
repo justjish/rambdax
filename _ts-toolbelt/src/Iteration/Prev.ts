@@ -1,6 +1,6 @@
-import {Map} from '../Iteration/Map'
-import {Iteration} from './Iteration'
-import {NumberMap} from '../Iteration/Maps/Number'
+import {Map} from '../Iteration/Map.ts'
+import {Iteration} from './Iteration.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
 
 /**
 Move `I`'s position backwards

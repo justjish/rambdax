@@ -1,6 +1,6 @@
-import {Union} from './Union'
-import {Is} from '../Any/Is'
-import {Match} from '../Any/_Internal'
+import {Union} from './Union.ts'
+import {Is} from '../Any/Is.ts'
+import {Match} from '../Any/_Internal.ts'
 
 /**
  * Extract the part of `U` that matches `M`

@@ -1,7 +1,7 @@
-import {Record} from './Record'
-import {Key} from '../Any/Key'
-import {IntersectOf} from '../Union/IntersectOf'
-import {ComputeRaw} from '../Any/Compute'
+import {Record} from './Record.ts'
+import {Key} from '../Any/Key.ts'
+import {IntersectOf} from '../Union/IntersectOf.ts'
+import {ComputeRaw} from '../Any/Compute.ts'
 
 /**
 @hidden

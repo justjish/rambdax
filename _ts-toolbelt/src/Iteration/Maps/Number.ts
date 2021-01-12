@@ -1,4 +1,4 @@
-import {CreateMap} from '../Map'
+import {CreateMap} from '../Map.ts'
 
 /**
  * @hidden

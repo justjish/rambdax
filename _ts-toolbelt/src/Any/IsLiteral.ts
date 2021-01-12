@@ -1,6 +1,6 @@
-import {And} from '../Boolean/And'
-import {Or} from '../Boolean/Or'
-import {Extends} from './Extends'
+import {And} from '../Boolean/And.ts'
+import {Or} from '../Boolean/Or.ts'
+import {Extends} from './Extends.ts'
 
 /**
  * @hidden

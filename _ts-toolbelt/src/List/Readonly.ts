@@ -1,6 +1,6 @@
-import {Depth} from '../Object/_Internal'
-import {ReadonlyPart} from '../Object/Readonly'
-import {List} from './List'
+import {Depth} from '../Object/_Internal.ts'
+import {ReadonlyPart} from '../Object/Readonly.ts'
+import {List} from './List.ts'
 
 /**
 Make `L` readonly (deeply or not)

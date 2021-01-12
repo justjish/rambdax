@@ -1,5 +1,5 @@
-import {Depth} from '../Object/_Internal'
-import {BuiltInObject} from '../Misc/BuiltInObject'
+import {Depth} from '../Object/_Internal.ts'
+import {BuiltInObject} from '../Misc/BuiltInObject.ts'
 
 /**
  * @hidden

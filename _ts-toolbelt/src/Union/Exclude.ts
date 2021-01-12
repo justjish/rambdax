@@ -1,4 +1,4 @@
-import {Union} from './Union'
+import {Union} from './Union.ts'
 
 /**
 Remove `M` out of `U`

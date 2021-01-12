@@ -1,4 +1,4 @@
-import {Function} from './Function'
+import {Function} from './Function.ts'
 
 /**
 Extract parameters from a [[Function]]

@@ -1,12 +1,12 @@
-import {IterationOf} from '../Iteration/IterationOf'
-import {Iteration} from '../Iteration/Iteration'
-import {Key} from '../Iteration/Key'
-import {Next} from '../Iteration/Next'
-import {Append} from '../List/Append'
-import {Exclude} from '../Union/Exclude'
-import {List} from '../List/List'
-import {Extends} from '../Any/Extends'
-import {At} from './At'
+import {IterationOf} from '../Iteration/IterationOf.ts'
+import {Iteration} from '../Iteration/Iteration.ts'
+import {Key} from '../Iteration/Key.ts'
+import {Next} from '../Iteration/Next.ts'
+import {Append} from '../List/Append.ts'
+import {Exclude} from '../Union/Exclude.ts'
+import {List} from '../List/List.ts'
+import {Extends} from '../Any/Extends.ts'
+import {At} from './At.ts'
 
 /**
 @hidden

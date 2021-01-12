@@ -1,5 +1,5 @@
 /** @ignore *//** */
 
-export type {Class} from './Class'
-export type {InstanceOf} from './InstanceOf'
-export type {Parameters} from './Parameters'
+export type {Class} from './Class.ts'
+export type {InstanceOf} from './InstanceOf.ts'
+export type {Parameters} from './Parameters.ts'

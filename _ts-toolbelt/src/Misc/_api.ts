@@ -1,7 +1,7 @@
 /** @ignore *//** */
 
-import * as JSON from './JSON/_api'
+import * as JSON from './JSON/_api.ts'
 
 export type {JSON}
-export type {BuiltInObject} from './BuiltInObject'
-export type {Primitive} from './Primitive'
+export type {BuiltInObject} from './BuiltInObject.ts'
+export type {Primitive} from './Primitive.ts'

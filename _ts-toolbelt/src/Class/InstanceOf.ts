@@ -1,4 +1,4 @@
-import {Class} from './Class'
+import {Class} from './Class.ts'
 
 /**
  * Get the instance type of a `class` from a class object

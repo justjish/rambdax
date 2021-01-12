@@ -1,4 +1,4 @@
-import {Class} from './Class'
+import {Class} from './Class.ts'
 
 /**
 Get the parameters of a class constructor

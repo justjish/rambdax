@@ -1,7 +1,7 @@
-import {Depth} from '../Object/_Internal'
-import {CompulsoryPart} from '../Object/Compulsory'
-import {List} from './List'
-import {_Pick} from '../Object/Pick'
+import {Depth} from '../Object/_Internal.ts'
+import {CompulsoryPart} from '../Object/Compulsory.ts'
+import {List} from './List.ts'
+import {_Pick} from '../Object/Pick.ts'
 
 /**
 Make that `L`'s fields cannot be [[Nullable]] or [[Optional]] (it's like

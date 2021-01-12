@@ -1,4 +1,4 @@
-import {Union} from './Union'
+import {Union} from './Union.ts'
 
 /**
 Get the intersection of `U1` & `U2`

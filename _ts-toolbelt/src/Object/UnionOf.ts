@@ -1,4 +1,4 @@
-import {At} from './At'
+import {At} from './At.ts'
 
 /**
  * @hidden

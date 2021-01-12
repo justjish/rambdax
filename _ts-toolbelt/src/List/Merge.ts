@@ -1,7 +1,7 @@
-import {Merge as OMerge} from '../Object/Merge'
-import {List} from './List'
-import {Depth} from '../Object/_Internal'
-import {BuiltInObject} from '../Misc/BuiltInObject'
+import {Merge as OMerge} from '../Object/Merge.ts'
+import {List} from './List.ts'
+import {Depth} from '../Object/_Internal.ts'
+import {BuiltInObject} from '../Misc/BuiltInObject.ts'
 
 /**
 Accurately merge the fields of `L` with the ones of `L1`. It is

@@ -1,10 +1,10 @@
-import {Last} from './Last'
-import {Prepend} from '../List/Prepend'
-import {Exclude} from './Exclude'
-import {List} from '../List/List'
-import {Union} from './Union'
-import {Cast} from '../Any/Cast'
-import {Extends} from '../Any/Extends'
+import {Last} from './Last.ts'
+import {Prepend} from '../List/Prepend.ts'
+import {Exclude} from './Exclude.ts'
+import {List} from '../List/List.ts'
+import {Union} from './Union.ts'
+import {Cast} from '../Any/Cast.ts'
+import {Extends} from '../Any/Extends.ts'
 
 /**
 @hidden

@@ -1,4 +1,4 @@
-import {Union} from './Union'
+import {Union} from './Union.ts'
 
 // Credit https://stackoverflow.com/a/50375286/3570903
 

@@ -1,7 +1,7 @@
-import {Length} from './Length'
-import {Formats} from '../Iteration/_Internal'
-import {Tail} from './Tail'
-import {List} from './List'
+import {Length} from './Length.ts'
+import {Formats} from '../Iteration/_Internal.ts'
+import {Tail} from './Tail.ts'
+import {List} from './List.ts'
 
 /**
 Get the last index of `L`

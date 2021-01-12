@@ -1,6 +1,6 @@
-import {OptionalPart} from '../Object/Optional'
-import {Depth} from '../Object/_Internal'
-import {List} from './List'
+import {OptionalPart} from '../Object/Optional.ts'
+import {Depth} from '../Object/_Internal.ts'
+import {List} from './List.ts'
 
 /**
 Make `L` optional (deeply or not)

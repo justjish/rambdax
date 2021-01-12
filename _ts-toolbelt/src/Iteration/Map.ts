@@ -1,4 +1,4 @@
-import {Iteration} from './Iteration'
+import {Iteration} from './Iteration.ts'
 
 /**
  * Defines a basic map that will be passed to [[CreateMap]]

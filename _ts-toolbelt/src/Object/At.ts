@@ -1,5 +1,5 @@
-import {Key} from '../Any/Key'
-import {Boolean} from '../Boolean/Boolean'
+import {Key} from '../Any/Key.ts'
+import {Boolean} from '../Boolean/Boolean.ts'
 
 /**
 @hidden

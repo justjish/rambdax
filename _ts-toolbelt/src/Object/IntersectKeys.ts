@@ -1,8 +1,8 @@
-import {Intersect} from '../Union/Intersect'
-import {Match} from '../Any/_Internal'
-import {Is} from '../Any/Is'
-import {At} from './At'
-import {Keys} from './Keys'
+import {Intersect} from '../Union/Intersect.ts'
+import {Match} from '../Any/_Internal.ts'
+import {Is} from '../Any/Is.ts'
+import {At} from './At.ts'
+import {Keys} from './Keys.ts'
 
 /**
 @hidden

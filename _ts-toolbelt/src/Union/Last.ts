@@ -1,5 +1,5 @@
-import {IntersectOf} from './IntersectOf'
-import {Union} from './Union'
+import {IntersectOf} from './IntersectOf.ts'
+import {Union} from './Union.ts'
 
 /**
 Get the last item within an [[Union]]

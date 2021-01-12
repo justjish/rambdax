@@ -1,4 +1,4 @@
-import {Union} from './Union'
+import {Union} from './Union.ts'
 
 /**
 Add `undefined | null` to `U`

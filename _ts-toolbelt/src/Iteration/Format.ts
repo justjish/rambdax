@@ -1,5 +1,5 @@
-import {Iteration} from './Iteration'
-import {Formats} from './_Internal'
+import {Iteration} from './Iteration.ts'
+import {Formats} from './_Internal.ts'
 
 /**
 Is [[Key]] and [[Pos]] in a single type

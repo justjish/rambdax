@@ -1,6 +1,6 @@
-import {MergeAll as OMergeAll} from '../Object/MergeAll'
-import {List} from '../List/List'
-import {Depth} from '../Object/_Internal'
+import {MergeAll as OMergeAll} from '../Object/MergeAll.ts'
+import {List} from '../List/List.ts'
+import {Depth} from '../Object/_Internal.ts'
 
 /**
 [[Merge]] a list of [[List]]s into `L`. Merges from left to right, first

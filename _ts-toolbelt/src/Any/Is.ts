@@ -1,7 +1,7 @@
-import {Match} from './_Internal'
-import {Extends} from './Extends'
-import {Equals} from './Equals'
-import {Contains} from './Contains'
+import {Match} from './_Internal.ts'
+import {Extends} from './Extends.ts'
+import {Equals} from './Equals.ts'
+import {Contains} from './Contains.ts'
 
 /**
  * Check whether `A` is similar to `A1` or not. In other words, it is a compact

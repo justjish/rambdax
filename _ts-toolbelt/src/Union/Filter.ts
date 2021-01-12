@@ -1,6 +1,6 @@
-import {Union} from './Union'
-import {Match} from '../Any/_Internal'
-import {Is} from '../Any/Is'
+import {Union} from './Union.ts'
+import {Match} from '../Any/_Internal.ts'
+import {Is} from '../Any/Is.ts'
 
 /**
 Remove `M` out of `U`

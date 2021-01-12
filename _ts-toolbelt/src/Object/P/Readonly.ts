@@ -1,13 +1,13 @@
-import {IterationOf} from '../../Iteration/IterationOf'
-import {Iteration} from '../../Iteration/Iteration'
-import {Pos} from '../../Iteration/Pos'
-import {Next} from '../../Iteration/Next'
-import {Key} from '../../Any/Key'
-import {Readonly as OReadonly} from '../Readonly'
-import {LastIndex} from '../../List/LastIndex'
-import {List} from '../../List/List'
-import {Depth} from '../_Internal'
-import {Boolean} from '../../Boolean/Boolean'
+import {IterationOf} from '../../Iteration/IterationOf.ts'
+import {Iteration} from '../../Iteration/Iteration.ts'
+import {Pos} from '../../Iteration/Pos.ts'
+import {Next} from '../../Iteration/Next.ts'
+import {Key} from '../../Any/Key.ts'
+import {Readonly as OReadonly} from '../Readonly.ts'
+import {LastIndex} from '../../List/LastIndex.ts'
+import {List} from '../../List/List.ts'
+import {Depth} from '../_Internal.ts'
+import {Boolean} from '../../Boolean/Boolean.ts'
 
 /**
 @hidden

@@ -1,7 +1,7 @@
-import {Key} from '../Any/Key'
-import {x} from '../Any/x'
-import {Replace} from '../Union/Replace'
-import {Depth} from './_Internal'
+import {Key} from '../Any/Key.ts'
+import {x} from '../Any/x.ts'
+import {Replace} from '../Union/Replace.ts'
+import {Depth} from './_Internal.ts'
 
 /**
  * @hidden

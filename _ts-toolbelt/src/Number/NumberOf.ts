@@ -1,8 +1,8 @@
-import {Key} from '../Iteration/Key'
-import {Pos} from '../Iteration/Pos'
-import {Numbers, KnownIterationMapKeys} from './_Internal'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
+import {Key} from '../Iteration/Key.ts'
+import {Pos} from '../Iteration/Pos.ts'
+import {Numbers, KnownIterationMapKeys} from './_Internal.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
 
 /**
 @hidden

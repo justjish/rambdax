@@ -1,6 +1,6 @@
-import {Exclude} from '../Union/Exclude'
-import {List} from './List'
-import {Keys} from './Keys'
+import {Exclude} from '../Union/Exclude.ts'
+import {List} from './List.ts'
+import {Keys} from './Keys.ts'
 
 /**
 Get the shortest [[List]] of `L` & `L1`

@@ -1,7 +1,7 @@
-import {Key} from '../Any/Key'
-import {List} from './List'
-import {Update as OUpdate} from '../Object/Update'
-import {Depth} from '../Object/_Internal'
+import {Key} from '../Any/Key.ts'
+import {List} from './List.ts'
+import {Update as OUpdate} from '../Object/Update.ts'
+import {Depth} from '../Object/_Internal.ts'
 
 /**
 Update in `L` the entries of key `K` with `A`.

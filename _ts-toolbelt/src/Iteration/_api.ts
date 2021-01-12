@@ -1,12 +1,12 @@
 /** @ignore *//** */
 
-import * as Maps from './Maps/_api'
+import * as Maps from './Maps/_api.ts'
 
 export type {Maps}
-export type {Format} from './Format'
-export type {Iteration} from './Iteration'
-export type {IterationOf} from './IterationOf'
-export type {Key} from './Key'
-export type {Next} from './Next'
-export type {Pos} from './Pos'
-export type {Prev} from './Prev'
+export type {Format} from './Format.ts'
+export type {Iteration} from './Iteration.ts'
+export type {IterationOf} from './IterationOf.ts'
+export type {Key} from './Key.ts'
+export type {Next} from './Next.ts'
+export type {Pos} from './Pos.ts'
+export type {Prev} from './Prev.ts'

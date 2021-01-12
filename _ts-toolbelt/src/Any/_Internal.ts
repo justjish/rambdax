@@ -1,5 +1,5 @@
-import {_NumberOf} from '../Number/NumberOf'
-import {NumberMap} from '../Iteration/Maps/Number'
+import {_NumberOf} from '../Number/NumberOf.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
 
 /**
  * Describes the match strategy when matching types

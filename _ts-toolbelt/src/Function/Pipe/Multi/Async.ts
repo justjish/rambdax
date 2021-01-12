@@ -1,7 +1,7 @@
 /** @ignore *//** */
 
-import {Function} from '../../Function'
-import {PromiseType} from '../../../Any/PromiseType'
+import {Function} from '../../Function.ts'
+import {PromiseType} from '../../../Any/PromiseType.ts'
 
 /**
 @hidden

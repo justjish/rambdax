@@ -1,10 +1,10 @@
-import {_Omit} from '../Object/Omit'
-import {_Pick} from '../Object/Pick'
-import {At} from '../Object/At'
-import {Exclude} from '../Union/Exclude'
-import {Numbers} from '../Number/_Internal'
-import {_ListOf} from '../Object/ListOf'
-import {Has} from '../Union/Has'
+import {_Omit} from '../Object/Omit.ts'
+import {_Pick} from '../Object/Pick.ts'
+import {At} from '../Object/At.ts'
+import {Exclude} from '../Union/Exclude.ts'
+import {Numbers} from '../Number/_Internal.ts'
+import {_ListOf} from '../Object/ListOf.ts'
+import {Has} from '../Union/Has.ts'
 
 /**
  * @hidden

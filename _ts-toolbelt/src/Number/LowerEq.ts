@@ -1,7 +1,7 @@
-import {GreaterEq} from './GreaterEq'
-import {Number} from './Number'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
+import {GreaterEq} from './GreaterEq.ts'
+import {Number} from './Number.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
 
 /**
 Check if a [[Number]] is lower or equal to another one

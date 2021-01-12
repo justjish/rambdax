@@ -1,7 +1,7 @@
-import {Function} from './Function'
-import {Parameters} from './Parameters'
-import {Formats} from '../Iteration/_Internal'
-import {Length as LLength} from '../List/Length'
+import {Function} from './Function.ts'
+import {Parameters} from './Parameters.ts'
+import {Formats} from '../Iteration/_Internal.ts'
+import {Length as LLength} from '../List/Length.ts'
 
 /**
 Extract arguments' length from a [[Function]]

@@ -1,11 +1,11 @@
-import {_Minus} from './Minus'
-import {IterationOf} from '../Iteration/IterationOf'
-import {Iteration} from '../Iteration/Iteration'
-import {Number} from './Number'
-import {Formats} from '../Iteration/_Internal'
-import {Format} from '../Iteration/Format'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
+import {_Minus} from './Minus.ts'
+import {IterationOf} from '../Iteration/IterationOf.ts'
+import {Iteration} from '../Iteration/Iteration.ts'
+import {Number} from './Number.ts'
+import {Formats} from '../Iteration/_Internal.ts'
+import {Format} from '../Iteration/Format.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
 
 /**
 @hidden

@@ -1,6 +1,6 @@
 /** @ignore *//** */
 
-import {Function} from '../../Function'
+import {Function} from '../../Function.ts'
 
 /**
 @hidden

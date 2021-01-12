@@ -1,12 +1,12 @@
-import {AtBasic} from './At'
-import {Key} from '../Any/Key'
-import {_ListOf} from './ListOf'
-import {List} from '../List/List'
-import {Depth, MergeStyle} from './_Internal'
-import {BuiltInObject} from '../Misc/BuiltInObject'
-import {_Omit} from './Omit'
-import {ObjectOf} from '../List/ObjectOf'
-import {Compute} from '../Any/Compute'
+import {AtBasic} from './At.ts'
+import {Key} from '../Any/Key.ts'
+import {_ListOf} from './ListOf.ts'
+import {List} from '../List/List.ts'
+import {Depth, MergeStyle} from './_Internal.ts'
+import {BuiltInObject} from '../Misc/BuiltInObject.ts'
+import {_Omit} from './Omit.ts'
+import {ObjectOf} from '../List/ObjectOf.ts'
+import {Compute} from '../Any/Compute.ts'
 
 /**
 @hidden

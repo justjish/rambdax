@@ -1,11 +1,11 @@
-import {Equals} from '../Any/Equals'
-import {_Greater} from './Greater'
-import {IterationOf} from '../Iteration/IterationOf'
-import {Iteration} from '../Iteration/Iteration'
-import {Number} from './Number'
-import {Or} from '../Boolean/Or'
-import {NumberMap} from '../Iteration/Maps/Number'
-import {Map} from '../Iteration/Map'
+import {Equals} from '../Any/Equals.ts'
+import {_Greater} from './Greater.ts'
+import {IterationOf} from '../Iteration/IterationOf.ts'
+import {Iteration} from '../Iteration/Iteration.ts'
+import {Number} from './Number.ts'
+import {Or} from '../Boolean/Or.ts'
+import {NumberMap} from '../Iteration/Maps/Number.ts'
+import {Map} from '../Iteration/Map.ts'
 
 /**
 @hidden

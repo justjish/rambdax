@@ -1,7 +1,7 @@
-import {PatchAll as OPatchAll} from '../Object/PatchAll'
-import {List} from '../List/List'
-import {Depth} from '../Object/_Internal'
-import {BuiltInObject} from '../Misc/BuiltInObject'
+import {PatchAll as OPatchAll} from '../Object/PatchAll.ts'
+import {List} from '../List/List.ts'
+import {Depth} from '../Object/_Internal.ts'
+import {BuiltInObject} from '../Misc/BuiltInObject.ts'
 
 /**
 [[Patch]] a list of [[List]]s into `L`. Patches from left to right, first

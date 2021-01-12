@@ -1,5 +1,5 @@
-import {Function} from './Function'
-import {List} from '../List/List'
+import {Function} from './Function.ts'
+import {List} from '../List/List.ts'
 
 /**
 Extract the return type of a [[Function]]

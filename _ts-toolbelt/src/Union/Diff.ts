@@ -1,5 +1,5 @@
-import {Exclude} from './Exclude'
-import {Union} from './Union'
+import {Exclude} from './Exclude.ts'
+import {Union} from './Union.ts'
 
 /**
 Get an [[Union]] that is the difference between `U1` & `U2`
