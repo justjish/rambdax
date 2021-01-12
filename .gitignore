@@ -37,3 +37,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# VSCode Settings
+.vscode
+
+# OS Specific files
+.DS_Store
