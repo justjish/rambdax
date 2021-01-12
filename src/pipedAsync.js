@@ -1,4 +1,4 @@
-import { type } from './type'
+import { type } from './type.js'
 
 export async function pipedAsync(...inputs){
   const [ input, ...fnList ] = inputs

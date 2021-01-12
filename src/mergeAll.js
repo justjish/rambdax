@@ -1,5 +1,5 @@
-import { map } from './map'
-import { merge } from './merge'
+import { map } from './map.js'
+import { merge } from './merge.js'
 
 export function mergeAll(arr){
   let willReturn = {}

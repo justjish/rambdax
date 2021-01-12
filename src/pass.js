@@ -1,5 +1,5 @@
-import { any } from './any'
-import { check } from './ok'
+import { any } from './any.js'
+import { check } from './ok.js'
 
 export function pass(...inputs){
   return (...schemas) =>

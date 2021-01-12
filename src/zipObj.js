@@ -1,4 +1,4 @@
-import { take } from './take'
+import { take } from './take.js'
 
 export function zipObj(keys, values){
   if (arguments.length === 1) return yHolder => zipObj(keys, yHolder)

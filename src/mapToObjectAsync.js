@@ -1,4 +1,4 @@
-import { mapAsync } from './mapAsync'
+import { mapAsync } from './mapAsync.js'
 
 export async function mapToObjectAsyncFn(fn, list){
   let toReturn = {}

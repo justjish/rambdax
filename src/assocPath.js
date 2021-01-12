@@ -1,7 +1,7 @@
-import { _isArray } from './_internals/_isArray'
-import { _isInteger } from './_internals/_isInteger'
-import { assoc } from './assoc'
-import { curry } from './curry'
+import { _isArray } from './_internals/_isArray.js'
+import { _isInteger } from './_internals/_isInteger.js'
+import { assoc } from './assoc.js'
+import { curry } from './curry.js'
 
 function assocPathFn(
   path, newValue, input

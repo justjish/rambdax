@@ -1,4 +1,4 @@
-import { path } from './path'
+import { path } from './path.js'
 
 export function hasPath(maybePath, obj){
   if (arguments.length === 1){

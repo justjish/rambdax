@@ -1,5 +1,5 @@
-import { merge } from './merge'
-import { omit } from './omit'
+import { merge } from './merge.js'
+import { omit } from './omit.js'
 
 export function renameProps(conditions, inputObject){
   if (arguments.length === 1){

@@ -1,7 +1,7 @@
-import { curryN } from './curryN'
-import { map } from './map'
-import { max } from './max'
-import { reduce } from './reduce'
+import { curryN } from './curryN.js'
+import { map } from './map.js'
+import { max } from './max.js'
+import { reduce } from './reduce.js'
 
 export function converge(fn, transformers){
   if (arguments.length === 1)

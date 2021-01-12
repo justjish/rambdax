@@ -1,4 +1,4 @@
-import { type } from './type'
+import { type } from './type.js'
 
 function parseError(maybeError){
   const typeofError = maybeError.__proto__.toString()

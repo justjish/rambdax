@@ -1,6 +1,6 @@
-import { merge } from './merge'
-import { pick } from './pick'
-import { type } from './type'
+import { merge } from './merge.js'
+import { pick } from './pick.js'
+import { type } from './type.js'
 
 let holder = {}
 

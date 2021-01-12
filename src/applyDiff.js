@@ -1,5 +1,5 @@
-import { assocPath } from './assocPath'
-import { path as pathModule } from './path'
+import { assocPath } from './assocPath.js'
+import { path as pathModule } from './path.js'
 const ALLOWED_OPERATIONS = [ 'remove', 'add', 'update' ]
 
 export function removeAtPath(path, obj){

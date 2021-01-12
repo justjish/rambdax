@@ -1,4 +1,4 @@
-import { compose } from './compose'
+import { compose } from './compose.js'
 
 export function pipe(...fns){
   if (fns.length === 0)

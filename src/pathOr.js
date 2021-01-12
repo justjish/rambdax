@@ -1,6 +1,6 @@
-import { curry } from './curry'
-import { defaultTo } from './defaultTo'
-import { path } from './path'
+import { curry } from './curry.js'
+import { defaultTo } from './defaultTo.js'
+import { path } from './path.js'
 
 function pathOrFn(
   defaultValue, list, obj

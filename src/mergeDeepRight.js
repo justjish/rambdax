@@ -1,4 +1,4 @@
-import { type } from './type'
+import { type } from './type.js'
 
 export function mergeDeepRight(target, source){
   if (arguments.length === 1){

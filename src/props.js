@@ -1,5 +1,5 @@
-import { _isArray } from './_internals/_isArray'
-import { mapArray } from './map'
+import { _isArray } from './_internals/_isArray.js'
+import { mapArray } from './map.js'
 
 export function props(propsToPick, obj){
   if (arguments.length === 1){

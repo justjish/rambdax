@@ -1,5 +1,5 @@
-import { _isArray } from './_internals/_isArray'
-import { _keys } from './_internals/_keys'
+import { _isArray } from './_internals/_isArray.js'
+import { _keys } from './_internals/_keys.js'
 
 export function mapArray(
   fn, list, isIndexed = false

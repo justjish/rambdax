@@ -1,4 +1,4 @@
-import { sort } from './sort'
+import { sort } from './sort.js'
 
 export function sortObject(predicate, obj){
   if (arguments.length === 1){

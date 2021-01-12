@@ -1,4 +1,4 @@
-import { _isArray } from './_internals/_isArray'
+import { _isArray } from './_internals/_isArray.js'
 
 async function mapAsyncFn(fn, listOrObject){
   if (_isArray(listOrObject)){

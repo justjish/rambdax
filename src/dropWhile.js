@@ -1,4 +1,4 @@
-import { _isArray } from '../src/_internals/_isArray'
+import { _isArray } from '../src/_internals/_isArray.js'
 
 export function dropWhile(predicate, iterable){
   if (arguments.length === 1){

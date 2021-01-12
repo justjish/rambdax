@@ -1,6 +1,6 @@
-import { _isArray } from './_internals/_isArray'
-import { mapArray, mapObject } from './map'
-import { type } from './type'
+import { _isArray } from './_internals/_isArray.js'
+import { mapArray, mapObject } from './map.js'
+import { type } from './type.js'
 
 export function evolveArray(rules, list){
   return mapArray(

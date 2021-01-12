@@ -1,6 +1,6 @@
-import { _isArray } from './_internals/_isArray'
-import { filter } from './filter'
-import { mapAsync } from './mapAsync'
+import { _isArray } from './_internals/_isArray.js'
+import { filter } from './filter.js'
+import { mapAsync } from './mapAsync.js'
 
 export function filterAsyncFn(predicate, listOrObject){
   return new Promise((resolve, reject) => {

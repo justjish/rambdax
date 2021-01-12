@@ -1,8 +1,8 @@
-import { any } from './any'
-import { glue } from './glue'
-import { fromPrototypeToString, isValid } from './isValid'
-import { map } from './map'
-import { type } from './type'
+import { any } from './any.js'
+import { glue } from './glue.js'
+import { fromPrototypeToString, isValid } from './isValid.js'
+import { map } from './map.js'
+import { type } from './type.js'
 
 export function schemaToString(schema){
   if (type(schema) !== 'Object'){

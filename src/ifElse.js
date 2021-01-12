@@ -1,4 +1,4 @@
-import { curry } from './curry'
+import { curry } from './curry.js'
 
 function ifElseFn(
   condition, onTrue, onFalse

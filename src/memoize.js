@@ -1,9 +1,9 @@
-import { compose } from './compose'
-import { map } from './map'
-import { replace } from './replace'
-import { sort } from './sort'
-import { take } from './take'
-import { type } from './type'
+import { compose } from './compose.js'
+import { map } from './map.js'
+import { replace } from './replace.js'
+import { sort } from './sort.js'
+import { take } from './take.js'
+import { type } from './type.js'
 
 const cache = {}
 

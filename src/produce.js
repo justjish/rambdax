@@ -1,5 +1,5 @@
-import { map } from './map'
-import { type } from './type'
+import { map } from './map.js'
+import { type } from './type.js'
 
 export function produce(rules, input){
   if (arguments.length === 1){

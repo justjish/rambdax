@@ -1,5 +1,5 @@
-import { _isArray } from './_internals/_isArray'
-import { mapArray, mapObject } from './map'
+import { _isArray } from './_internals/_isArray.js'
+import { mapArray, mapObject } from './map.js'
 
 export function mapIndexed(fn, iterable){
   if (arguments.length === 1){

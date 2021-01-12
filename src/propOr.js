@@ -1,5 +1,5 @@
-import { curry } from './curry'
-import { defaultTo } from './defaultTo'
+import { curry } from './curry.js'
+import { defaultTo } from './defaultTo.js'
 
 function propOrFn(
   defaultValue, property, obj

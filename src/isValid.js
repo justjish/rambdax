@@ -1,11 +1,11 @@
-import { _isArray } from './_internals/_isArray'
-import { all } from './all'
-import { any } from './any'
-import { includes } from './includes'
-import { init } from './init'
-import { test } from './test'
-import { toLower } from './toLower'
-import { type } from './type'
+import { _isArray } from './_internals/_isArray.js'
+import { all } from './all.js'
+import { any } from './any.js'
+import { includes } from './includes.js'
+import { init } from './init.js'
+import { test } from './test.js'
+import { toLower } from './toLower.js'
+import { type } from './type.js'
 
 export function isPrototype(input){
   const currentPrototype = input.prototype

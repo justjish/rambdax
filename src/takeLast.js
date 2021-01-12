@@ -1,4 +1,4 @@
-import baseSlice from './_internals/baseSlice'
+import baseSlice from './_internals/baseSlice.js'
 
 export function takeLast(howMany, listOrString){
   if (arguments.length === 1)

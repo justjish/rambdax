@@ -1,6 +1,6 @@
-import { delay } from './delay'
-import { range } from './range'
-import { type } from './type'
+import { delay } from './delay.js'
+import { range } from './range.js'
+import { type } from './type.js'
 
 export function waitFor(
   condition, howLong, loops = 10

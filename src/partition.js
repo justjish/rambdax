@@ -1,4 +1,4 @@
-import { _isArray } from './_internals/_isArray'
+import { _isArray } from './_internals/_isArray.js'
 
 export function partitionObject(predicate, iterable){
   const yes = {}

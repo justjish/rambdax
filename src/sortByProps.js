@@ -1,4 +1,4 @@
-import { path } from './path'
+import { path } from './path.js'
 
 function singleSort(
   a, b, sortPaths

@@ -1,4 +1,4 @@
-import { equals } from './equals'
+import { equals } from './equals.js'
 
 export function lastIndexOf(target, list){
   if (arguments.length === 1) return _list => lastIndexOf(target, _list)

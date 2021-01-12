@@ -1,7 +1,7 @@
-import { _isArray } from './_internals/_isArray'
-import { drop } from './drop'
-import { maybe } from './maybe'
-import { take } from './take'
+import { _isArray } from './_internals/_isArray.js'
+import { drop } from './drop.js'
+import { maybe } from './maybe.js'
+import { take } from './take.js'
 
 export function splitAt(index, input){
   if (arguments.length === 1){

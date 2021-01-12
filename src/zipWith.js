@@ -1,5 +1,5 @@
-import { curry } from './curry'
-import { take } from './take'
+import { curry } from './curry.js'
+import { take } from './take.js'
 
 function zipWithFn(
   fn, x, y

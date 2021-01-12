@@ -1,5 +1,5 @@
-import { curry } from "./curry";
-import { equals } from "./equals";
+import { curry } from "./curry.js";
+import { equals } from "./equals.js";
 
 function eqPropsFn(prop, obj1, obj2) {
   if(!obj1 || !obj2){

@@ -1,6 +1,6 @@
-import { curry } from './curry'
-import { equals } from './equals'
-import { path } from './path'
+import { curry } from './curry.js'
+import { equals } from './equals.js'
+import { path } from './path.js'
 
 function pathEqFn(
   pathToSearch, target, input

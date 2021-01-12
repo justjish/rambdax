@@ -1,4 +1,4 @@
-import { equals } from './equals'
+import { equals } from './equals.js'
 
 const NO_MATCH_FOUND = Symbol ? Symbol('NO_MATCH_FOUND') : undefined
 

@@ -1,4 +1,4 @@
-import { any } from './any'
+import { any } from './any.js'
 
 export function uniqWith(fn, list){
   if (arguments.length === 1) return _list => uniqWith(fn, _list)

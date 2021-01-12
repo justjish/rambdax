@@ -1,5 +1,5 @@
-import { _isArray } from './_internals/_isArray'
-import { filterArray, filterObject } from './filter'
+import { _isArray } from './_internals/_isArray.js'
+import { filterArray, filterObject } from './filter.js'
 
 export function filterIndexed(predicate, iterable){
   if (arguments.length === 1)

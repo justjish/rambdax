@@ -1,5 +1,5 @@
-import { map } from './map'
-import { range } from './range'
+import { map } from './map.js'
+import { range } from './range.js'
 
 export function times(fn, howMany){
   if (arguments.length === 1) return _howMany => times(fn, _howMany)

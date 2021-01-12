@@ -1,5 +1,5 @@
-import { isFalsy } from './_internals/isFalsy'
-import { type } from './type'
+import { isFalsy } from './_internals/isFalsy.js'
+import { type } from './type.js'
 
 export function anyFalse(...inputs){
   let counter = 0

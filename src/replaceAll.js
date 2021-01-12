@@ -1,5 +1,5 @@
-import { curry } from './curry'
-import { ok } from './ok'
+import { curry } from './curry.js'
+import { ok } from './ok.js'
 
 function replaceAllFn(
   patterns, replacer, input

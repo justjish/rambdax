@@ -1,4 +1,4 @@
-import { pipe } from './pipe'
+import { pipe } from './pipe.js'
 
 export function piped(...inputs){
   const [ input, ...fnList ] = inputs

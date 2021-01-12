@@ -1,5 +1,5 @@
-import { includes } from './includes'
-import { reduce } from './reduce'
+import { includes } from './includes.js'
+import { reduce } from './reduce.js'
 
 export function without(matchAgainst, source){
   if (source === undefined){

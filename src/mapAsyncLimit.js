@@ -1,5 +1,5 @@
-import { mapFastAsync, mapFastAsyncFn } from './mapFastAsync'
-import { splitEvery } from './splitEvery'
+import { mapFastAsync, mapFastAsyncFn } from './mapFastAsync.js'
+import { splitEvery } from './splitEvery.js'
 
 async function mapAsyncLimitFn(
   iterable, limit, list

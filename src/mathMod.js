@@ -1,4 +1,4 @@
-import _isInteger from './_internals/_isInteger'
+import _isInteger from './_internals/_isInteger.js'
 
 export function mathMod(x, y){
   if (arguments.length === 1) return _y => mathMod(x, _y)

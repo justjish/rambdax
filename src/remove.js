@@ -1,5 +1,5 @@
-import { replace } from './replace'
-import { type } from './type'
+import { replace } from './replace.js'
+import { type } from './type.js'
 
 export function remove(inputs, text){
   if (arguments.length === 1){

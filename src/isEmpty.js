@@ -1,4 +1,4 @@
-import { type } from './type'
+import { type } from './type.js'
 
 export function isEmpty(input){
   const inputType = type(input)

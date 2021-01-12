@@ -1,6 +1,6 @@
-import { concat } from './concat'
-import { filter } from './filter'
-import { includes } from './includes'
+import { concat } from './concat.js'
+import { filter } from './filter.js'
+import { includes } from './includes.js'
 
 export function symmetricDifference(x, y){
   if (arguments.length === 1){

@@ -1,4 +1,4 @@
-import { _isArray } from './_internals/_isArray'
+import { _isArray } from './_internals/_isArray.js'
 
 // recursively traverse the given spec object to find the highest arity function
 function __findHighestArity(spec, max = 0){

@@ -1,6 +1,6 @@
-import { forEach } from './forEach'
-import { isPromise } from './isPromise'
-import { isValid } from './isValid'
+import { forEach } from './forEach.js'
+import { isPromise } from './isPromise.js'
+import { isValid } from './isValid.js'
 
 export async function isValidAsync({ schema, input }){
   const asyncSchema = {}

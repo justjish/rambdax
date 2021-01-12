@@ -1,4 +1,4 @@
-import { curry } from './curry'
+import { curry } from './curry.js'
 
 function sliceFn(
   from, to, list

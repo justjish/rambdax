@@ -1,5 +1,5 @@
-import { isFunction } from './isFunction'
-import { isPromise } from './isPromise'
+import { isFunction } from './isFunction.js'
+import { isPromise } from './isPromise.js'
 
 export function tryCatchAsync(fn, fallback){
   return (...inputs) =>

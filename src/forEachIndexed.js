@@ -1,4 +1,4 @@
-import {mapIndexed} from './mapIndexed'
+import {mapIndexed} from './mapIndexed.js'
 
 export function forEachIndexed(fn, iterable) {
   if (arguments.length === 1){

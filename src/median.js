@@ -1,4 +1,4 @@
-import { mean } from './mean'
+import { mean } from './mean.js'
 
 export function median(list){
   const len = list.length

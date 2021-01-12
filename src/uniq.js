@@ -1,4 +1,4 @@
-import { includes } from './includes'
+import { includes } from './includes.js'
 
 export function uniq(list){
   let index = -1

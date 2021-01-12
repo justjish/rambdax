@@ -1,5 +1,5 @@
-import { equals } from './equals'
-import { filter } from './filter'
+import { equals } from './equals.js'
+import { filter } from './filter.js'
 
 export function whereEq(condition, input){
   if (arguments.length === 1){

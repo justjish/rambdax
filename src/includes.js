@@ -1,5 +1,5 @@
-import { _isArray } from './_internals/_isArray'
-import { equals } from './equals'
+import { _isArray } from './_internals/_isArray.js'
+import { equals } from './equals.js'
 
 export function includes(valueToFind, input){
   if (arguments.length === 1) return _input => includes(valueToFind, _input)
